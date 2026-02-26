@@ -47,6 +47,7 @@ def main():
     print("\n" + "=" * 50)
     print("✨ Make today count! ✨")
     print("=" * 50)
+    print("+" * 50)
 
 if __name__ == "__main__":
     main()
